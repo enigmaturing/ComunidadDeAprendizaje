@@ -1,0 +1,17 @@
+.tabla {
+    background-color: red;
+    height: 2000px;
+    width: 50%;
+    display: inline-block;
+}
+
+.formulario {
+    background-color: green;
+    width: 45%;
+    display: inline-block;
+    position: fixed;
+}
+
+.buscador {
+    background-color: blue;
+}
